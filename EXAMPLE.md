@@ -17,3 +17,16 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+## Keep your local repository in sync:
+From now on, whenever you make changes to your local Jekyll project, commit those changes and push them to GitHub:
+
+```bash
+git add .
+git commit -m "Your commit message"
+git push origin master
+```
+
+Your GitHub Pages site will be updated automatically every time you push changes to the master branch.
+
+That's it! Your Jekyll blog site should now be deployed to GitHub Pages and synced with the local repository on your machine
