@@ -18,6 +18,9 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+## add images to this thing like: 
+![Image]({{ site.baseurl }}/images/image1.png)
+
 ## Keep your local repository in sync:
 From now on, whenever you make changes to your local Jekyll project, commit those changes and push them to GitHub:
 
