@@ -1,10 +1,10 @@
 title: Balls Blog Inc
-email: your-email@example.com
+email: reddevelopercat@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   yeah this is the balls blog yall, i post whatever the f i want here and its on github
   pages so free f-ing hosting as well..
 baseurl: "/ballsblog" # the subpath of your site, e.g. /blog
-url: "https://github.com/RedDeveloperCat/ballsblog/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.com/RedDeveloperCat/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # theme: minima
@@ -18,7 +18,7 @@ plugins:
 
 
 # required by disqus to display comments
-url: ""
+url: "https://github.com/RedDeveloperCat/ballsblog/"
 
 # jekyll-paginate
 paginate: 5
