@@ -1,8 +1,8 @@
 title: Balls Blog Inc
 email: reddevelopercat@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  yeah this is the balls blog yall, i post whatever the f i want here and its on github
-  pages so free f-ing hosting as well..
+  yeah this is the balls blog yall, i post whatever the fuck i want here and its on github
+  pages so free fucking hosting as well.. i love posting about random shit, "deep" thoughts and linux and developement stuff.
 baseurl: "/ballsblog" # the subpath of your site, e.g. /blog
 url: "https://github.com/RedDeveloperCat/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -54,10 +54,10 @@ dash:
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
-  social_links:
-    - url: https://github.com/RedDeveloperCat
-      icon: github-square
-      color: red
+  # social_links:
+  #   - url: https://github.com/RedDeveloperCat
+  #     icon: github-square
+  #     color: red
   
   # wether the author box should be displayed or not
   show_author: true
